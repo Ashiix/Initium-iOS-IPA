@@ -13,4 +13,4 @@ Pre-compiled version of the Initium IPA
 9. If a pop-up with "Untrusted developer" appears, 1) Go to settings | 2) Go to general | 3) Scroll down to "Profiles and Device Management", or something like that | 4) Click on "initiumsigning@gmail.com" | 5) Select trust
 10. The app should be installed and working! Just sign in with your Google account and you're good to go :D
 
-If there are any issues with the install, feel free to leave an issue on the Git page, or message Evel in-game
+If there are any issues with the install, feel free to leave an issue on the Git page
